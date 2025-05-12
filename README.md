@@ -1,6 +1,6 @@
-automation_asnmnt_batch09
-Automated Tests for SauceDemo Website
-Comprehensive automated test suite for the SauceDemo website using WebdriverIO framework.
+[automation_asnmnt_batch09]
+Automated Tests for SauceDemo Website. 
+ Comprehensive automated test suite for the SauceDemo website using WebdriverIO framework.
 
 -- Features
 1. Login verification with different user types
