@@ -34,8 +34,7 @@ npm (v6 or higher)
 -- Installation
 
 Clone the repository
-bashgit clone https://github.com/abireshaan/saucedemo-tests.git
-cd saucedemo-tests
+bashgit clone (https://github.com/abireshaan/automation_asnmnt_batch09)
 
 -- Install dependencies
  npm install (insert the bash)
